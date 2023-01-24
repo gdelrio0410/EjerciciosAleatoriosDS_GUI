@@ -26,11 +26,16 @@ def preguntas():
     return diccionario_preguntas[lista_preguntas[random_index]]
 
 
-def click_boton():
+def click_boton_pregunta():
+    texto = Label(raiz, text= preguntas()).grid()
+
+def click_boton_hita():
     texto = Label(raiz, text= preguntas()).grid()
 
 
-boton1 = Button(raiz, text="aqui esta el boton", padx=100, pady=25, command=click_boton).grid(row=1, column=2)
+boton_pregunta = Button(raiz, text="pregunta", padx=50, pady=25, command=click_boton_pregunta).grid(row=1, column=1)
+
+boton_hit = Button(raiz, text="hit!", padx=50, pady=25, command=click_boton_hita).grid(row=1, column=4)
 
 preguntas()
 
