@@ -7,11 +7,11 @@ Este proyecto sera una interfaz grafica donde se pueda practicar con ejercicios 
 |----------------|---------------|----------------|-----------|
 | diseño del projecto | Guillermo | to do |  [ ] ok
 | boton de pregunta   | Guillermo | to do | [ ] ok
-| funcion mostrar pregunta   |  | to do | [ ] ok
-| boton de hint (pista)  |  | to do | [ ] ok
-| funcion mostrar hint (pista)   |  | to do | [ ] ok
-| boton de respuesta   |  | to do | [ ] ok
-| funcion mostrar respuesta   |  | to do | [ ] ok
+| funcion mostrar pregunta   | Guillermo | to do | [ ] ok
+| boton de hint (pista)  | Carlos | to do | [ ] ok
+| funcion mostrar hint (pista)   | Carlos | to do | [ ] ok
+| boton de respuesta   | Hugo | to do | [ ] ok
+| funcion mostrar respuesta   | Hugo | to do | [ ] ok
 | caja para mostrar la pregunta   |  | to do | [ ] ok
 | caja para mostrar el hit  |  | to do | [ ] ok
 | caja para mostrar la respuesta   |  | to do | [ ] ok

@@ -1,7 +1,7 @@
 from tkinter import *
 import random
 
-diccionario_preguntas = {"uno": ["pregunta 1","hint 1", "Respuesta 1"], "dos": "pregunta 2", "tres": "pregunta 3", "cuatro": "pregunta 4",
+diccionario_preguntas = {"uno": ["pregunta 1","hint 1", "Respuesta 1"], "dos": ["pregunta 2","hint 2", "Respuesta 2"], "tres": "pregunta 3", "cuatro": "pregunta 4",
                          "cinco": "pregunta 5"}
 lista_preguntas = []
 raiz = Tk()
