@@ -8,8 +8,8 @@ Este proyecto sera una interfaz grafica donde se pueda practicar con ejercicios 
 | diseño del projecto | Guillermo | to do |  [ ] ok
 | boton de pregunta   | Guillermo | to do | [ ] ok
 | funcion mostrar pregunta   |  | to do | [ ] ok
-| boton de hit (pista)  |  | to do | [ ] ok
-| funcion mostrar hit (pista)   |  | to do | [ ] ok
+| boton de hint (pista)  |  | to do | [ ] ok
+| funcion mostrar hint (pista)   |  | to do | [ ] ok
 | boton de respuesta   |  | to do | [ ] ok
 | funcion mostrar respuesta   |  | to do | [ ] ok
 | caja para mostrar la pregunta   |  | to do | [ ] ok
