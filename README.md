@@ -23,3 +23,6 @@ Este proyecto sera una interfaz grafica donde se pueda practicar con ejercicios 
 |   |  | to do | [ ] ok
 |   |  | to do | [ ] ok
 |   |  | to do | [ ] ok
+
+
+Revisar como funcionan los checkmark y bulets para poder tener un verdadero y falso
